@@ -6,11 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In my free time, I like to hike, bike, canoe, kayak and garden. When I travel, I seek out wilderness and other natural areas to escape, reflect and relax, as well as explore archeological sites to contemplate and be amazed by previous civilizations. It is the thoughts and questions I have while engaging in these pastimes that blazed the path of my career and are why I have degrees in anthropology, forestry and natural resources. I’ve always been curious about the human-nature relationship – aren’t you?
 
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* [NC State SALT Project](http://ncsu-salt.weebly.com/)
+* [North Shore Climate Readiness](http://northshoreclimate.com/index.html)
