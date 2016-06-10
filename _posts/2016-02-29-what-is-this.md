@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This IS What Science Looks Like?
-excerpt: "My name is **Erin Seekamp** and I’m an associate professor with NC State University’s College of Natural Resources."
+excerpt: "My name is Erin Seekamp and I’m an associate professor with NC State University’s College of Natural Resources."
 modified: 6/10/2016, 9:00:24
 original post: 0/11/2014
 tags: [research, climate change, community, partnerhsips]
